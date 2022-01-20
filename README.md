@@ -1,4 +1,4 @@
-# Andela-Developer-Challenge# Andela-Developer-Challenge
+# Andela-Developer-Challenge
 
 # SendIT
 
