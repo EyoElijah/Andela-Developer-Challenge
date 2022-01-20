@@ -1,0 +1,13 @@
+{
+  "extends": "airbnb-base",
+  "plugins": ["prettier"],
+  "rules": {
+    "import/extensions": "off",
+    "comma-dangle": "off",
+    "consistent-return": "off",
+    "object-curly-newline": "off",
+    "no-console": "off",
+    "no-useless-escape": "off",
+    "camelcase": "off"
+  }
+}
